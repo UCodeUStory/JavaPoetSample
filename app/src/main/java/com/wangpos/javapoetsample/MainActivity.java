@@ -70,6 +70,7 @@ import com.example.Test;
  */
 public class MainActivity extends AppCompatActivity {
 
+    @Test(1)
     private int a;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
